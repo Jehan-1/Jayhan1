@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hi I'm Jayhan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## I'm Jayhan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm Jayhan Alnofli a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UClEiYw_0SGwrgCchbRwbV-Q). I Spend most of time coding outstanding projects or recording tutorials.
 
@@ -15,7 +15,7 @@ I'm Jayhan Alnofli a Full Stack Web Developer and Content Creator on [Youtube](h
 - 🤔 I’m looking   to collaborate on test | programming code.
 - 📫 How to reach me: Alnoflijihan@gmail.com.
 - 😄 Pronouns: CoderOne, Jehan-1, AI.
-- ⚡ Fun fact: I am very curious and love to coding.
+- ⚡ Fun fact: I am very passionte Person who love coding.
 
 #### Top Technologies
 
