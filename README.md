@@ -68,11 +68,11 @@ I'm Jayhan Alnofli a Full Stack Web Developer and Content Creator on [Youtube](h
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+My passion is to share knowledge with others and compile tutorials, courses, and informative posts to assist fellow developers.!
 
-#### What is CoderOne?
+#### What is QOM?
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+QOM is a abbreviation for (Qaboos Oman) which is purely Omani initiative for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Coding Stats
 
