@@ -88,7 +88,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Jehan-1 github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Jehan-1 github stats](https://github-readme-stats.vercel.app/api?username=Jayhan1&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
