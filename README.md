@@ -12,7 +12,7 @@ I'm Jayhan Alnofli a Full Stack Web Developer and Content Creator on [Youtube](h
 
 - 🔭 I’m currently On Makeen Training Program at @CodeAcademy
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking   to collaborate on test | programming code.
+- 🤔 looking   to collaborate on test | programming code.
 - 📫 How to reach me: Alnoflijihan@gmail.com.
 - 😄 Pronouns: CoderOne, Jehan-1, AI.
 - ⚡ Fun fact: I am very passionte Person who love coding.
